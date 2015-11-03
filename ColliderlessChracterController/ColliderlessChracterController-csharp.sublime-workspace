@@ -1,0 +1,1027 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"addcl",
+				"addClass"
+			],
+			[
+				"filen",
+				"filename"
+			],
+			[
+				"removeAll",
+				"removeAllListeners	UnityEventBase.*()"
+			],
+			[
+				"previous",
+				"previousFrame"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"VEctor",
+				"Vector2	SerializedPropertyType.*"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"currentl",
+				"currentlyClampedTo"
+			],
+			[
+				"Lis",
+				"List"
+			],
+			[
+				"Colli",
+				"Collider"
+			],
+			[
+				"Collisid",
+				"CollisionData"
+			],
+			[
+				"F",
+				"FindObjectOfType"
+			],
+			[
+				"trans",
+				"transform	[class]"
+			],
+			[
+				"Quater",
+				"Quaternion	[class]"
+			],
+			[
+				"Vec",
+				"Vector3	[class]"
+			],
+			[
+				"CameraState",
+				"CameraStateMachine"
+			],
+			[
+				"forwa",
+				"forward	Transform.*"
+			],
+			[
+				"Updatet",
+				"UpdateTypes"
+			],
+			[
+				"lateupd",
+				"lateUpdateID"
+			],
+			[
+				"grav",
+				"Gravity"
+			],
+			[
+				"ground",
+				"groundNormal"
+			],
+			[
+				"butt",
+				"button	GUI.*(position, text, style)"
+			],
+			[
+				"delta",
+				"deltaTime	Time.*"
+			],
+			[
+				"moveDi",
+				"moveDirection	[class]"
+			],
+			[
+				"gameObject",
+				"gameObject	[class]"
+			],
+			[
+				"PlayerState",
+				"PlayerStateMachine"
+			],
+			[
+				"actio",
+				"Actions"
+			],
+			[
+				"Inpub",
+				"InputBindings"
+			],
+			[
+				"Rec",
+				"Rect	*(left, top, width, height)"
+			],
+			[
+				"Button",
+				"Button	GUI.*(position, content)"
+			],
+			[
+				"Sy",
+				"System"
+			],
+			[
+				"Debug",
+				"Debug	[class]"
+			],
+			[
+				"E",
+				"OnEnterState"
+			],
+			[
+				"on",
+				"OnExitState"
+			],
+			[
+				"Last",
+				"LastState"
+			],
+			[
+				"gamei",
+				"gameObject.GetComponentInParent	*()"
+			],
+			[
+				"Sphere",
+				"SphereCollider	[class]"
+			],
+			[
+				"Ground",
+				"GroundHit"
+			],
+			[
+				"clamped",
+				"clampedTo"
+			],
+			[
+				"clamo",
+				"clampedTo"
+			],
+			[
+				"second",
+				"secondaryOrigin"
+			],
+			[
+				"orig",
+				"origin90	[class]"
+			],
+			[
+				"secon",
+				"secondaryOrigin"
+			],
+			[
+				"Vect",
+				"Vector3	[class]"
+			],
+			[
+				"tran",
+				"transform	GameObject.*"
+			],
+			[
+				"gameObjec",
+				"gameObject	[class]"
+			],
+			[
+				"SphereCas",
+				"SphereCast	Physics.*(origin, radius, direction, out hitInfo, maxDistance, layerMask)"
+			],
+			[
+				"vec",
+				"vector3	[class]"
+			],
+			[
+				"Vector",
+				"Vector3	[class]"
+			],
+			[
+				"groun",
+				"groundLayer"
+			],
+			[
+				"clampe",
+				"clampedTo"
+			],
+			[
+				"Layerm",
+				"LayerMask	[class]"
+			],
+			[
+				"Seriali",
+				"SerializeField	[class]"
+			],
+			[
+				"TransformPoint",
+				"TransformPoint	Transform.*(position)"
+			],
+			[
+				"Transform",
+				"TransformPoint	Transform.*(position)"
+			],
+			[
+				"local",
+				"localNormal"
+			],
+			[
+				"col",
+				"collider"
+			],
+			[
+				"con",
+				"contactPoint"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"html",
+				"html_src"
+			],
+			[
+				"temp",
+				"temp_scripts"
+			],
+			[
+				"cop",
+				"copy"
+			],
+			[
+				"co",
+				"concat"
+			],
+			[
+				"scri",
+				"scripts_src"
+			],
+			[
+				"pro",
+				"prod_scripts"
+			],
+			[
+				"Temp",
+				"temp_styles_dest"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"ex",
+				"expanded"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"vi",
+				"videos"
+			],
+			[
+				"l",
+				"localServerDestination"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"pl",
+				"plugin_styles"
+			],
+			[
+				"plu",
+				"plugin_scripts"
+			],
+			[
+				"stl",
+				"styles_src"
+			],
+			[
+				"sc",
+				"scripts_dest"
+			],
+			[
+				"videos_",
+				"videos_src"
+			],
+			[
+				"fonts",
+				"fonts"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"dev",
+				"dev_scripts"
+			],
+			[
+				"com",
+				"dev_compile"
+			],
+			[
+				"docs",
+				"docs_dest"
+			],
+			[
+				"doc",
+				"docs"
+			],
+			[
+				"img_",
+				"img_src"
+			],
+			[
+				"scr",
+				"scripts_dist"
+			],
+			[
+				"includes_",
+				"includes_src"
+			],
+			[
+				"force",
+				"force_clean_build"
+			],
+			[
+				"te",
+				"temp_styles"
+			],
+			[
+				"build",
+				"build_scripts"
+			],
+			[
+				"css",
+				"cssmin"
+			],
+			[
+				"STYL",
+				"styles"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fatna",
+				"fatnavblue"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ro",
+				"rowCount"
+			],
+			[
+				"conte",
+				"contentHeight"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"curre",
+				"current_row"
+			],
+			[
+				"set",
+				"selectIndex"
+			],
+			[
+				"prev",
+				"prev_scrolltop"
+			],
+			[
+				"cure",
+				"current_row"
+			],
+			[
+				"el",
+				"el_pos"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"conten",
+				"contentID"
+			],
+			[
+				"top",
+				"top_row_offset"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"up",
+				"upBtn"
+			],
+			[
+				"dow",
+				"down"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"bakc",
+				"background"
+			],
+			[
+				"_",
+				"_breakpoint"
+			],
+			[
+				"tim",
+				"timeline"
+			],
+			[
+				"slider",
+				"_sliderID"
+			],
+			[
+				"anim",
+				"animateSlider"
+			],
+			[
+				"btn",
+				"btn_position"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"white",
+				"white-space"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 912.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/acapobianchi/Documents/Work/Unity/ColliderlessCharacterController/ColliderlessChracterController/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/Users/acapobianchi/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/acapobianchi/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/acapobianchi/Documents/Work/Unity/ColliderlessCharacterController/ColliderlessChracterController/ColliderlessChracterController-csharp.sublime-project",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/application.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/main.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/session.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/recordcontroller.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/eyetracker.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/storageMap.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/serverside/jsonsave.php",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/styles/main.scss",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/modalcontroller.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/frame.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/grunt/package.json",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/grunt/Gruntfile.js",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/src/lib/scripts/application/model/vector.js",
+		"/Users/acapobianchi/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/acapobianchi/Documents/Work/Web/EyeTribe_WebSight/grunt/Gruntfile.js.bak.js",
+		"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController/Core/SuperCollisionType.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Model/PlayerCamera.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Controllers/PlayerController.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/PlayerStateMachine.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/StateMachine.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/CameraStateMachine.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/Player/PlayerFallState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/Camera/CameraFreeState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/Camera/CameraTargetState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Controllers/CameraController.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/PLayer/PlayerFallState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/PLayer/PlayerWalkState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/PLayer/PlayerIdleState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/State/States/PLayer/PlayerState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Model/WorldProperties.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Controllers/GroundController.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/StateMachine.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerStateMachine.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerController.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerWalkState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerFallState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerIdleState.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/InputBindings.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/GUIDebug.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PlayerLocomotion.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController/Core/SuperMath.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/PhysicsUtils.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/MathUtils.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/Ground.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/CollisionType.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/ColliderUtils.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController/Core/SuperCharacterController.cs",
+		"/Users/acapobianchi/Documents/Work/Unity/BetterCharacterController/Assets/Scripts/DebugDraw.cs",
+		"/Users/acapobianchi/Documents/Empower/Repos/ui-style-guide/src/toolkit/assets/styles/bootstrap/grid.less",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/grunt/Gruntfile.js.bak.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/model/breakpoint.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/footer-scripts.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/global.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/prod/resources/scripts/main.min.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/prod/resources/includes/footer-scripts.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/prod/resources/includes/header-imports.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/grunt/package.json",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/header-imports.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/includes/header-imports.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/styles/plugins.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/components/autonav.js",
+		"/Users/acapobianchi/Documents/Great-West/Repos/greatwest-funds/css/gw-funds.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/temp/scripts/min/main.min.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/plugins/plugins.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/styles/main.min.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/banner.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/header.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/styles/main.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/typography.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/utilities/utilities.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/controller/application.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/nav/fatnav.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/nav/nav.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/at-a-glance.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/header.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/regulatory-filings.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/plugins/modernizr-2.6.2.min.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/styles/style.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/scripts/min/main.min.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/icon/icon.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/global/colors.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/build/resources/styles/min/plugins.min.css",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/working-with-us/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/category.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/history.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/leadership.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/media-releases.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/ratings.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/values.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/who-we-are.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/business-solutions/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/disclaimer/privacy-policy.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/disclaimer/terms.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/investment-options/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/life-insurance/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/pr/pr-15-01-20.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/pr/pr-15-04-01.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/pr/pr-15-06-09.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/pr/pr-15-07-07.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/pr/pr-15-09-30.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/retirement-income/index.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/careers.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/community-impact.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/corporate-structure.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/html-conditionals.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/nav/autonav.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/global/breakpoint.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/components/fatnav.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/footer.html",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/grunt/Gruntfile.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/scripts/main.js",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/includes/php/footer.php",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/list.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/main.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/helper.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/regulatory-filings.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/regulatory-filings",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/footer.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/icon/gwicon-selectors.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/html/about-us/media-relations.shtml",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles/components/table.scss",
+		"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement_bak/reference/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController",
+			"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/Scripts",
+			"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController",
+			"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/Scripts",
+			"/Users/acapobianchi/Documents/Work/Unity/SuperCharacterController-master/Assets/SuperCharacterController",
+			"/Users/acapobianchi/Documents/Empower/Repos/login-ui/client",
+			"/Users/acapobianchi/Documents/Empower/Repos/ui-style-guide/src",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/lib/styles",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/styles",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/styles",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/styles",
+			"/Users/acapobianchi/Documents/Putnam/SVN-Marketing/greatwest/great-west-retirement/src/scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scrollTop",
+			"  ",
+			"radius",
+			"shadowOffsetX",
+			"lineTo",
+			"linTo",
+			"div",
+			"x",
+			"drawAlpha",
+			"actx",
+			"drawAlpha",
+			"fileName",
+			"php",
+			"great-west-retirement",
+			"fh",
+			"z-2",
+			"heatmap",
+			"y",
+			"x",
+			"dev",
+			"delete",
+			"temp_styles_dest",
+			"collisionType",
+			"SuperCollision",
+			"IgnoredCollider",
+			"PushIgnoredColliders",
+			"RecursivePushback",
+			"RecursivePushbacj",
+			"lookDirection",
+			"LocalMovement",
+			"lookDirection",
+			"LocalMovement",
+			"SuperGround",
+			"currentGround =",
+			"IsGrounded",
+			"MaintainingGround",
+			"PlayerStates",
+			"PlayerState",
+			"moveDirection",
+			"IsGrounded",
+			"Walk",
+			"PlayerWalkState",
+			"state.CurrentState",
+			"SuperUpdate",
+			"State",
+			"override",
+			"Idle",
+			"PostUpdate",
+			"PreUpdate",
+			"virtual",
+			"public",
+			"timeEnteredState",
+			"ConfigureDelegate",
+			"ChangingState",
+			"Gravity",
+			"RotateGravity",
+			"Fall_SuperUpdate3",
+			"Fall_SuperUpdate",
+			"gravity",
+			"ProbeGround",
+			"initialPosition",
+			";\n",
+			"lastGroundPosition",
+			"defaultCollisionType",
+			"private GroundHit",
+			"superground",
+			"RecursivePushback",
+			"SphereCast",
+			"raycast",
+			"Axis",
+			"Input",
+			"input",
+			"debugMove",
+			"offsetTop",
+			"containerTop",
+			"{top: containerTop}",
+			"top: 50px;",
+			"login-form",
+			".inner-container {",
+			"@media (max-width: 959px) {",
+			"pt",
+			"img",
+			"css",
+			"min",
+			"=>",
+			"scripts",
+			"/",
+			"\"",
+			"scripts",
+			"force_clean_build",
+			"force_clean_temp",
+			"to_staging",
+			"build",
+			"clean",
+			"Clean",
+			"clean",
+			"CLEAN",
+			"clean",
+			"/min/",
+			"window.$=window.$||{},function(){$&&$.fn&&$.fn.select2&&$.fn.select2",
+			"/* Select 2 jquery plugin */",
+			".bottom {\n  margin-bottom: 80px;\n}",
+			"close",
+			"closee",
+			"close",
+			"word-break",
+			"top",
+			"0px",
+			"header",
+			"concat",
+			"modern",
+			"active",
+			"header-link",
+			"header",
+			"a7b1c2",
+			"fatnavgrey",
+			"a7b1c2",
+			"stock photo",
+			"{\n",
+			"index",
+			".disclaimer",
+			"css",
+			"sup",
+			"-.6em",
+			"sup",
+			"sup {",
+			"sup{",
+			"sup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/PlayerController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ColliderlessChracterController-csharp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"partice",
+				"src/app/authentication/participantEnhancedSecurity.html"
+			],
+			[
+				"partib",
+				"src/app/authentication/participantBrowserSupport.html"
+			],
+			[
+				"parti",
+				"src/app/authentication/participantSavingsrates.html"
+			],
+			[
+				"particip",
+				"src/app/authentication/participantRolloverOptions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

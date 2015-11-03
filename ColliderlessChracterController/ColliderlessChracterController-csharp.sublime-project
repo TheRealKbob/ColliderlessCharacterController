@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "Assets/Scripts"
+		}
+	],
+	"solution_file": "./ColliderlessChracterController.sln"
+}
