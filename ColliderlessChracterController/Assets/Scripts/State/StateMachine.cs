@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 
+[RequireComponent(typeof ( BroadcastUpdate ) )]
 public class StateMachine : MonoBehaviour {
 
 	private Dictionary<Enum, IState> stateMap = new Dictionary<Enum, IState>();
@@ -24,11 +25,6 @@ public class StateMachine : MonoBehaviour {
 	}
 
 	public Enum LastState;
-
-	void Awake()
-	{
-		
-	}
 	
 	private void configureNewState( Enum newState )
 	{

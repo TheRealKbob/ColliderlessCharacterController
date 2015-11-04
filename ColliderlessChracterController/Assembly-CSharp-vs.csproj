@@ -46,7 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Controller\GroundController.cs" />
+     <Compile Include="Assets\Scripts\Controller\LocomotionController.cs" />
+     <Compile Include="Assets\Scripts\Model\BroadcastUpdate.cs" />
+     <Compile Include="Assets\Scripts\Model\WorldProperties.cs" />
+     <Compile Include="Assets\Scripts\State\PlayerStateMachine.cs" />
      <Compile Include="Assets\Scripts\State\StateMachine.cs" />
+     <Compile Include="Assets\Scripts\State\States\Player\PlayerFallState.cs" />
+     <Compile Include="Assets\Scripts\State\States\Player\PlayerIdleState.cs" />
+     <Compile Include="Assets\Scripts\State\States\Player\PlayerJumpState.cs" />
+     <Compile Include="Assets\Scripts\State\States\Player\PlayerMoveState.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
