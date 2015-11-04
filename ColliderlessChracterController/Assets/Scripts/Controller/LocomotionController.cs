@@ -22,6 +22,8 @@ public class LocomotionController : MonoBehaviour {
 
 	private Vector3 moveDirection = Vector3.zero;
 
+	private bool contact;
+
 	void Awake()
 	{
 		groundController = new GroundController( this, Walkable );
@@ -40,7 +42,11 @@ public class LocomotionController : MonoBehaviour {
 
 	private void recursivePushback()
 	{
-		
+		contact = false;
+		foreach( Collider c in Physics.OverlapSphere( transform.position, radius, walkable ) )
+		{
+			
+		}
 	}
 
 #region Ground Checking
