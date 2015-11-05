@@ -18,12 +18,19 @@ public class PlayerStateMachine : StateMachine {
 
 		Controller = gameObject.GetComponent<LocomotionController>();
 
+		Controller.OnLocomotionEvent += HandleLocomotionEvent;
+
 		addState( PlayerStateType.IDLE, new PlayerIdleState( this ) );
 		addState( PlayerStateType.MOVING, new PlayerMoveState( this ) );
 		addState( PlayerStateType.FALLING, new PlayerFallState( this ) );
 		addState( PlayerStateType.JUMPING, new PlayerJumpState( this ) );
 
 		CurrentState = PlayerStateType.IDLE;
+	}
+
+	private void HandleLocomotionEvent( string eventID )
+	{
+		(state as PlayerState).HandleLocomotionEvent( eventID );
 	}
 
 }
@@ -37,4 +44,7 @@ public class PlayerState : State
 	{
 		this.machine = machine;
 	}
+
+	public virtual void HandleLocomotionEvent( string eventID ){}
+
 }

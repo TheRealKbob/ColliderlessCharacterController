@@ -14,7 +14,7 @@ public class GroundController {
 
 	public bool IsGrounded( Vector3 origin )
 	{
-		return false;
+		return controller.contact;
 	}
 
 	public void Probe()
