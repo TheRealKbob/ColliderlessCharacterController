@@ -28,7 +28,10 @@ public class LocomotionController : MonoBehaviour {
 	private Vector3 moveDirection = Vector3.zero;
 	private Vector3 previousPosition;
 
+	private bool grounded = false;
 	public bool groundedLastFrame = false;
+
+	public float Velocity = 0;
 
 	//Debug
 	public Vector3 dp = Vector3.zero;
@@ -41,43 +44,40 @@ public class LocomotionController : MonoBehaviour {
 	
 	public void OnUpdate()
 	{
-		
-		//Check Ground
-		bool grounded = groundController.IsGrounded();
-		if( grounded )
-		{
-			if( groundedLastFrame )
-				maintainGround();
-			else
-				aquireGround();
-		}
-
-		//Ground Returned
-			//Was grounded
-				//MaintainGround
-			//Not Grounded
-				//AquireGround
-			//Recursive Pushback
-		//Ground not returned
-			//Fall
-
+		Vector3 prevPos = transform.position;
 		transform.position += moveDirection * Time.deltaTime;
-
+		Velocity = (( transform.position - prevPos ) / Time.deltaTime).magnitude;
+		groundedLastFrame = grounded;
 	}
 
 	public void AddGravity()
 	{
-		//moveDirection += Down * WorldProperties.Gravity * Time.deltaTime;
+		moveDirection += Down * WorldProperties.Gravity * Time.deltaTime;
 	}
 
-	private void maintainGround()
+	public bool MaintainGround()
 	{
-		Debug.Log("Maintaining Ground");
+		grounded = groundController.IsGrounded();
+		if( grounded )
+		{
+
+			return true;
+		}
+		return false;
+		//Debug.Log("Maintaining Ground");
 	}
 
-	private void aquireGround()
+	public bool AquiredGround()
 	{
-		Debug.Log("Aquired Ground");
+		grounded = groundController.IsGrounded();
+		if( grounded )
+		{
+			moveDirection = Vector3.zero;
+			transform.position = new Vector3( transform.position.x, groundController.Ground.Point.y, transform.position.z );
+			groundedLastFrame = true;
+			return true;
+		}
+		return false;
 	}
 
 	void OnDrawGizmos() {
@@ -93,4 +93,5 @@ public class LocomotionController : MonoBehaviour {
 public static class LocomotionEvents
 {
 	public static string ENTER_GROUND = "ENTER_GROUND";
+	public static string EXIT_GROUND = "EXIT_GROUND";
 }

@@ -6,6 +6,8 @@ public class GroundController {
 	private LocomotionController controller;
 	private LayerMask walkable;
 
+	public GroundHit Ground;
+
 	public GroundController( LocomotionController controller, LayerMask walkable )
 	{
 		this.controller = controller;
@@ -26,11 +28,18 @@ public class GroundController {
 			controller.dp = p;
 
 			if( controller.Position.y <= p.y )
+			{
+				Ground = new GroundHit( p );
 				return true;
+			}
 			else
+			{
+				clearGround();
 				return false;
+			}
 		}
 		controller.dp = Vector3.zero;
+		clearGround();
 		return false;
 
 	}
@@ -40,4 +49,21 @@ public class GroundController {
 		
 	}
 
+	private void clearGround()
+	{
+		Ground = null;
+	}
+
+}
+
+public class GroundHit
+{
+
+	private Vector3 point;
+	public Vector3 Point{ get{ return point; } }
+
+	public GroundHit( Vector3 point )
+	{
+		this.point = point;
+	}
 }

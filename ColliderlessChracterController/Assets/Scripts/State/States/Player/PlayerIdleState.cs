@@ -12,16 +12,24 @@ public class PlayerIdleState : PlayerState {
 
 	public override void DoUpdate()
 	{
-		/*if( !machine.Controller.MaintainingGround() )
+		if( !machine.Controller.MaintainGround() )
 		{
-			Debug.Log("switching to fall");
 			machine.CurrentState = PlayerStateMachine.PlayerStateType.FALLING;
-		}*/
+		}
 	}
 
 	public override void DoExitState()
 	{
 		Debug.Log( "Exiting Idle State" );
+	}
+
+	public override void HandleLocomotionEvent( string eventID )
+	{
+		if( eventID == LocomotionEvents.EXIT_GROUND )
+		{
+			machine.CurrentState = PlayerStateMachine.PlayerStateType.FALLING;
+			Debug.Log("falling?");
+		}
 	}
 
 }

@@ -12,6 +12,13 @@ public class PlayerFallState : PlayerState {
 
 	public override void DoUpdate()
 	{
+
+		if( machine.Controller.AquiredGround() )
+		{
+			machine.CurrentState = PlayerStateMachine.PlayerStateType.IDLE;
+			return;
+		}
+
 		machine.Controller.AddGravity();
 	}
 
