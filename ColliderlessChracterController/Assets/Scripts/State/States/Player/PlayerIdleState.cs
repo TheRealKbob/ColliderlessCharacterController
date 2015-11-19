@@ -12,11 +12,11 @@ public class PlayerIdleState : PlayerState {
 
 	public override void DoUpdate()
 	{
-		if( !machine.Controller.MaintainingGround() )
+		/*if( !machine.Controller.MaintainingGround() )
 		{
 			Debug.Log("switching to fall");
 			machine.CurrentState = PlayerStateMachine.PlayerStateType.FALLING;
-		}
+		}*/
 	}
 
 	public override void DoExitState()
